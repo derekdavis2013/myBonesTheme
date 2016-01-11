@@ -13,8 +13,6 @@ No one likes a mess.
 
 /*********************
 COLORS
-Need help w/ choosing your colors? Try this site out:
-http://0to255.com/
 *********************/
 
 $alert-yellow:      #ebe16f;
@@ -37,7 +35,10 @@ $green:             #7dd667;
 $bones-pink:        #f01d4f;
 $blue:              #2980b9;
 
-$link-color:        $bones-pink;
+$orange:			#EB7F00;
+
+// $link-color:        $bones-pink;
+$link-color:        $orange;
 $link-hover:        darken($link-color, 9%);
 
 $border-color:      #ccc;
@@ -47,7 +48,6 @@ $dark-blue:			#113A52;
 $teal:				#00C3B6;
 $off-white:			#F9F9F9;
 $grey:				#E9E9E9;
-$orange:			#EB7F00;
 
 
 /*

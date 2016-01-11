@@ -553,8 +553,6 @@ No one likes a mess.
 ******************************************************************/
 /*********************
 COLORS
-Need help w/ choosing your colors? Try this site out:
-http://0to255.com/
 *********************/
 /*
 Here's a great tutorial on how to
@@ -1538,14 +1536,14 @@ LINK STYLES
 *********************/
 /* line 82, ../scss/breakpoints/_base.scss */
 a, a:visited {
-  color: #f01d4f;
+  color: #eb7f00;
   /* on hover */
   /* on click */
   /* mobile tap color */
 }
 /* line 86, ../scss/breakpoints/_base.scss */
 a:hover, a:focus, a:visited:hover, a:visited:focus {
-  color: #d10e3c;
+  color: #bd6600;
 }
 /* line 96, ../scss/breakpoints/_base.scss */
 a:link, a:visited:link {
@@ -1621,7 +1619,7 @@ HEADER STYLES
 }
 /* line 162, ../scss/breakpoints/_base.scss */
 #logo a {
-  color: white;
+  color: #f9f9f9;
 }
 
 /*********************
@@ -2140,7 +2138,7 @@ FOOTER STYLES
 .footer {
   clear: both;
   background-color: #323944;
-  color: #f8f9fa;
+  color: #f9f9f9;
 }
 
 /*
