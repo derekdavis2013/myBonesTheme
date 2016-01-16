@@ -56,3 +56,9 @@ temp/
 
 *.codekit
 *.scssc
+
+
+##################
+## Non-Bones Files
+##################
+.sass-cache
